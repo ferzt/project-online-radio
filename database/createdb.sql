@@ -150,7 +150,7 @@ VALUES
 INSERT INTO SONG 
 VALUES
     (5,"All Back", "3:02", "assets/music/Chris Brown/FAME/All Back.mp3","2021-01-12",0,0),
-    (15,"Booty Man", "2:52", "assets/music/Craig David/BornToDoIt/bootyman.mp3","2020-10-12",0,0),
+    (15,"Booty Man", "2:52", "assets/music/Craig David/BornToDoIt/bootyman.mp3","2004-10-12",0,0),
     (25,"Next To You", "3:02", "assets/music/Chris Brown/FAME/Next To You.mp3","2015-10-12",0,0),
     (35,"Freeze", "3:02", "assets/music/T-Pain/Three Ringz/Freeze.mp3","2016-04-12",0,0),
     (45,"Paradise", "3:02", "assets/music/Chris Brown/FAME/Paradise.mp3","2016-04-12",0,0),
@@ -261,8 +261,8 @@ VALUES
     
 INSERT INTO SESSION_INFO (userArtistID, engineer, track, date, sessionFile)
 VALUES 
-    (15, "Mastamind", "Blow My Mind", "2021-12-02", "/downloads/blowmymind.mp3"),
-    (15, "Bantu", "Feeling", "2021-12-02", "/downloads/feeling.mp3");
+    (15, "Mastamind", "Blow My Mind", "2021-12-02", "downloads/blowmymind.mp3"),
+    (15, "Bantu", "Feeling", "2021-12-02", "downloads/feeling.mp3");
     
 INSERT INTO HEARING
 VALUES
